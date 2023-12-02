@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Be Vietnam Pro", sans-serif;
+    background-color: black;
+  }
+/* Section1 Here  */
+.Section1-Parent-animation2 {
+    /* border: 1px solid red; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 8px;
+  }
+  
+  /* Section1 Images Here */
+  .Section1-Parent-Images-animation2 {
+    width: 100%;
+    height: auto;
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 0px 0px;
+  }
+  .Section1-Img1-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman5.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img2-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman3.webp")no-repeat center center/cover;
+  }
+  .Section1-Img3-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman29.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img4-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/bamsi6.jpg")no-repeat center -90px/450px;
+  }
+  .Section1-Img5-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman35.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img6-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/gunduz.jpg")no-repeat center -50px/cover;
+  }
+  .Section1-Img7-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/aygul5.jpg")no-repeat center 0px/cover;
+  }
+  .Section1-Img8-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/mari3.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img9-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/malhunandbala.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img10-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/niqola9.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img11-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/aygul7.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img12-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/niqola4.jpg")no-repeat center -100px/380px 670px;
+  }
+  .Section1-Img13-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/turgut6.jpg")no-repeat center center/270px;
+  }
+  .Section1-Img14-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/mari2.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img15-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/usman7.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img16-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/turgut8.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img17-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/mari8.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img18-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/usman6.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img19-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/turgut7.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img20-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/turgut.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img21-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman17.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img22-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/Cerkutay2.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img23-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/malhun3.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img24-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/aygul1.jpg")no-repeat center -10px/cover;
+  }
+  .Section1-Img25-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/Cerkutay1.jpg")no-repeat center -40px/cover;
+  }
+  .Section1-Img26-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/usman10.jpg")no-repeat center 0px/cover;
+  }
+  .Section1-Img27-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman15.jpg")no-repeat center 0px/cover;
+  }
+  .Section1-Img28-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman27.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img29-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/falatyos4.jpg")no-repeat center center/cover;
+  }
+  .Section1-Img30-animation2 {
+    width: 269px;
+    height: 265px;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 1px 1px white;
+    background: url("../../../public/images/balaandusman34.jpg")no-repeat center center/cover;
+  }

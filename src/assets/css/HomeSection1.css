@@ -1,0 +1,320 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  background-color: black;
+}
+/* Section1 Here  */
+.Section1-Parent {
+  /* border: 1px solid red; */
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  bottom: 8px;
+}
+
+/* Section1 Images Here */
+.Section1-Parent-Images {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid yellow; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 0px 0px;
+}
+
+.Section1-Img1 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images//balaandusman32.jpg") no-repeat center
+    center/cover;
+}
+.Section1-Img2 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman30.png") no-repeat center
+    center/cover;
+}
+.Section1-Img3 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman20.png") no-repeat center
+    center/cover;
+}
+.Section1-Img4 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman19.png") no-repeat center
+    center/cover;
+}
+.Section1-Img5 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/bala9.png") no-repeat center
+    center/cover;
+}
+.Section1-Img6 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/bala10.png") no-repeat center
+    center/cover;
+}
+.Section1-Img7 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/bala18.png") no-repeat center -10px / cover;
+}
+.Section1-Img8 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/balaandusman30.png") no-repeat center
+    center/cover;
+}
+.Section1-Img9 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/malhun6.png") no-repeat center
+    center/cover;
+}
+.Section1-Img10 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/malhun7.png") no-repeat center
+    center/cover;
+}
+.Section1-Img11 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/malhun8.png") no-repeat center
+    center/cover;
+}
+.Section1-Img12 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/malhun10.png") no-repeat center
+    center/cover;
+}
+.Section1-Img13 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman27.png") no-repeat center
+    center/cover;
+}
+.Section1-Img14 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman11.png") no-repeat center
+    center/cover;
+}
+.Section1-Img15 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman28.png") no-repeat center
+    center/cover;
+}
+.Section1-Img16 {
+  width: 315px;
+  height: 528px;
+  margin: 0px 0px 0px 0px;
+  background: url("../../../public/images/usman13.png") no-repeat center
+    center/cover;
+}
+.Section1-All-images {
+  margin: 10px;
+  box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 0.324);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding-bottom: 30px;
+}
+/* section1 Text Here  */
+.section1-ParentText {
+  width: 100%;
+  height: 1650px;
+  /* border: 1px solid red; */
+  /* padding: 0px 0px 0px 0px; */
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+.section1-Text {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  width: 80%;
+  /* border: 1px solid yellow; */
+  color: rgba(253, 253, 253, 0.966);
+  padding: 0px;
+  line-height: 5rem;
+  font-size: 50px;
+  font-weight: 900;
+  text-align: center;
+  margin: 190px auto auto auto;
+  text-shadow: 0px 3px 5px black;
+  background-color: rgba(0, 0, 0, 0.313);
+  border-radius: 20px;
+}
+/* Section1 Arrows Here  */
+
+.section1-ParentArrowAndPages {
+  width: 100%;
+  height: 70px;
+  /* border: 1px solid yellow; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 565px;
+  left: 0px;
+  z-index: 110;
+}
+.section1-leftarrow {
+  /* display: flex;     */
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 5px 0px;
+  width: 70px;
+  height: 70px;
+  font-size: 60px;
+  color: white;
+  border-radius: 100px;
+  /* border: 1px solid black; */
+}
+.section1-Pages {
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  text-align: center;
+  color: white;
+  border: 1px solid green;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.section1-Pages:hover {
+  background-color: rgba(0, 0, 0, 0.166);
+  border: none;
+}
+.section1-rightarrow {
+  /* display: flex;     */
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 5px 0px;
+  width: 70px;
+  height: 70px;
+  font-size: 60px;
+  color: white;
+  border-radius: 100px;
+  /* border: 1px solid black; */
+}
+.section1-leftarrow:hover {
+  background-color: rgba(0, 0, 0, 0.137);
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+.section1-rightarrow:hover {
+  background-color: rgba(0, 0, 0, 0.137);
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+/* Section1-Text Styles for small devices (max-width: 1140px ) */
+@media only screen and (max-width: 1140px) {
+  .section1-Text {
+    line-height: 4rem !important;
+    font-size: 40px !important;
+    font-weight: 800 !important;
+  }
+}
+@media only screen and (max-width: 1004px) {
+  .section1-Text {
+    line-height: 3rem !important;
+    font-size: 30px !important;
+    font-weight: 700 !important;
+  }
+}
+@media only screen and (max-width: 669px) {
+  .section1-Text {
+    line-height: 1.8rem !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .section1-Text {
+    line-height: 1.5rem !important;
+    font-size: 10px !important;
+    font-weight: 500 !important;
+  }
+}
+/* Section1-ParentText Styles for small devices (max-width: 1356px ) */
+@media only screen and (max-width: 1356px) {
+  .section1-ParentText {
+    height: 2750px !important;
+    /* border: 1px solid red; */
+  }
+}
+@media only screen and (max-width: 1021px) {
+  .section1-ParentText {
+    height: 3850px !important;
+    /* border: 1px solid red; */
+  }
+}
+@media only screen and (max-width: 686px) {
+  .section1-ParentText {
+    height: 8250px !important;
+    /* border: 1px solid red; */
+  }
+}
+/* Section1ParentArrowsAndPages Styles for small devices (max-width: 2000px ) */
+/* Section1 Arrows Here  */
+@media only screen and (max-width: 2000px) {
+  .section1-ContainerArrowsAndPages {
+    height: 1707px !important;
+    /* border: 1px solid red; */
+  }  
+}
+@media only screen and (max-width: 1356px) {
+  .section1-ContainerArrowsAndPages {
+    height: 2805px !important;
+    /* border: 1px solid red; */
+  }
+}
+@media only screen and (max-width: 1021px) {
+  .section1-ContainerArrowsAndPages {
+    height: 3900px !important;
+    /* border: 1px solid red; */
+  }
+}
+@media only screen and (max-width: 686px) {
+  .section1-ContainerArrowsAndPages {
+    height: 8284px !important;
+    /* border: 1px solid red; */
+  }
+}
+
